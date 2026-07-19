@@ -10,7 +10,6 @@ I am a Data Professional bridging technical analysis with deep domain expertise 
 ### 🛠️ Tech Stack & Tools
 *   **Core:** Python, SQL
 *   **Data Visualization:** Power BI, Tableau, Advanced Excel
-*   **Domain Focus:** Life Insurance, Operational Revenue Tracking, Persistency Analysis
 
 ### 🚀 Highlighted Projects
 *   **[Life-Insurance-Distribution-Sourcing-Dashboard](https://github.com/pathannadeem8866-ui/Life-Insurance-Distribution-Sourcing-Dashboard):** End-to-end BI project analyzing performance and recruitment ROI of an insurance agency network.
